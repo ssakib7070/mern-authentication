@@ -2,7 +2,7 @@
 
 ## Installation
 
-Copy config.env.example file and rename it with config.env. Configure the .env.example file currectly
+Copy config.env.example file and rename it config.env. Configure the config.env file correctly
 
 ```sh
 npm install
